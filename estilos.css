@@ -1,6 +1,0 @@
-.imagem-bolo {
-    display: block; /* torna a imagem um elemento em bloco */
-    margin: 0 auto; /* centraliza horizontalmente a imagem */
-    max-width: 50%; /* define a largura máxima da imagem como 100% */
-    height: auto; /* define a altura da imagem como automática para manter a proporção */
-  }
